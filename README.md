@@ -35,7 +35,7 @@ Ex:
 ```
 Number of non-whitespace characters: 181
 ```
-<br />
+<br /><br />
 (4) Implement the GetNumOfWords() function. GetNumOfWords() has a constant string as a parameter and returns the number of words in the string. *Hint: Words end when a space is reached except for the last word in a sentence.* Call GetNumOfWords() in the PrintMenu() function. (3 pts)
 <br /><br />
 Ex:
