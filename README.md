@@ -28,7 +28,7 @@ q - Quit
 
 Choose an option:
 ```
-<br />
+<br /><br />
 (3) Implement the GetNumOfNonWSCharacters() function. GetNumOfNonWSCharacters() has a constant string as a parameter and returns the number of characters in the string, excluding all whitespace. Call GetNumOfNonWSCharacters() in the PrintMenu() function. (4 pts)
 <br /><br />
 Ex:
