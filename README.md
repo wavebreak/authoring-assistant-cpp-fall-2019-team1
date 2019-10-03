@@ -42,7 +42,7 @@ Ex:
 ```
 Number of words: 35
 ```
-<br />
+<br /><br />
 (5) Implement the FindText() function, which has two strings as parameters. The first parameter is the text to be found in the user provided sample text, and the second parameter is the user provided sample text. The function returns the number of instances a word or phrase is found in the string. In the PrintMenu() function, prompt the user for a word or phrase to be found and then call FindText() in the PrintMenu() function. Before the prompt, call **cin.ignore()** to allow the user to input a new string. (3 pts)
 <br /><br />
 Ex:
@@ -51,14 +51,14 @@ Enter a word or phrase to be found:
 more
 "more" instances: 5
 ```
-<br />
+<br /><br />
 (6) Implement the ReplaceExclamation() function. ReplaceExclamation() has a string parameter and updates the string by replacing each '!' character in the string with a '.' character. ReplaceExclamation() DOES NOT output the string. Call ReplaceExclamation() in the PrintMenu() function, and then output the edited string. (3 pts)
 <br /><br />
 Ex.
 ```
 Edited text: We'll continue our quest in space.  There will be more shuttle flights and more shuttle crews and,  yes,  more volunteers, more civilians,  more teachers in space.  Nothing ends here;  our hopes and our journeys continue.
 ```
-<br />
+<br /><br />
 (7) Implement the ShortenSpace() function. ShortenSpace() has a string parameter and updates the string by replacing all sequences of 2 or more spaces with a single space. ShortenSpace() DOES NOT output the string. Call ShortenSpace() in the PrintMenu() function, and then output the edited string. (3 pt)
 <br /><br />
 Ex:
